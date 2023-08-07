@@ -1,4 +1,4 @@
-# Suitmedia Pretest Mobile Intern
+# Palindrome Checks
 A palindrome text checker and passing data between pages.
 # Files
 File **apk** located on [here](https://github.com/haidarfathin/Flutter_tes_suitmedia_intern/tree/main/apk%20and%20screenshots)<br>
